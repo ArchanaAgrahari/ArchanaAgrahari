@@ -27,11 +27,10 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 B.Tech CSE @ **PSIT Kanpur** — Percentage: **78.25%** (2023–2027)
+- 🎓 B.Tech CSE @ **PSIT Kanpur** — CGPA: 8.74
 - 🤖 Building **AI-powered systems** — Computer Vision, Deep Learning, Multi-Agent AI
 - 🏆 **Hacksagon Finalist** @ IIITM Gwalior 2026
 - 💻 **250+ DSA problems** on LeetCode · ⭐ **3-Star Coder** on HackerRank
-- 🏢 **HP Power Lab 2.0** Certificate of Participation (2025)
 - 📍 Kanpur, Uttar Pradesh, India
 
 ---
