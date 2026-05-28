@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;+ML+Engineer+%7C+Frontend+Developer;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+Full+Stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;ML+Engineer+%7C+Frontend+Developer;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+Full+Stack)
 
 </div>
 
@@ -32,6 +32,17 @@
 - 🏆 **Hacksagon Finalist** @ IIITM Gwalior 2026
 - 💻 **250+ DSA problems** on LeetCode · ⭐ **3-Star Coder** on HackerRank
 - 📍 Kanpur, Uttar Pradesh, India
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Tech | Status |
+|---------|-------------|------|--------|
+| 🚗 [Driver Drowsiness Detection](https://github.com/ArchanaAgrahari/Driver-Drowsiness-Detection-System) | Real-time AI fatigue detection to prevent road accidents | `Python` `OpenCV` `MediaPipe` `TensorFlow` | 🔧 Active |
+| 🔧 [AutoNexus](https://github.com/ArchanaAgrahari) | AI predictive vehicle maintenance — multi-agent system, 94%+ accuracy | `FastAPI` `XGBoost` `LSTM` `React` `Docker` | ✅ Live |
+| 👗 [Wardrobe Wizard AI](https://github.com/ArchanaAgrahari/Wardrobe-Wizard-AI-) | AI outfit recommender using CNN (ResNet50) + Computer Vision | `React.js` `Flask` `ResNet50` `OpenCV` | ✅ Done |
+| ✅ [Task Manager](https://github.com/ArchanaAgrahari/Task-manager-) | Clean and intuitive task management web app | `HTML` `CSS` `JavaScript` | ✅ Done |
 
 ---
 
@@ -65,43 +76,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Driver Drowsiness Detection System *(Jan 2026 – Ongoing)*
-> AI-powered accident prevention using deep learning to detect driver fatigue in real time.
-- 🔍 Real-time facial landmark tracking using **MediaPipe / Dlib**
-- 🚨 Instant alert mechanism to enhance road safety
-- 📦 Scalable Computer Vision pipeline with **TensorFlow / PyTorch**
-
-`Python` `OpenCV` `TensorFlow` `MediaPipe` `Scikit-learn` `NumPy` `Pandas`
-
----
-
-### 🔧 AutoNexus – Automotive Predictive Maintenance *(Feb 2026 – Apr 2026)*
-> Multi-agent AI system for real-time vehicle diagnostics and automated maintenance decisions.
-- 🤖 Orchestrated multi-agent AI using **FastAPI, React & LLM-based agents**
-- 📈 Built **LSTM & XGBoost** pipelines on OBD-II sensor data for fault prediction
-- 🔒 Secure backend with **SQLAlchemy REST APIs** + UEBA anomaly detection
-
-`Python` `LSTM` `XGBoost` `FastAPI` `React` `LLM Agents` `SQLAlchemy`
-
----
-
-### 👗 Wardrobe Wizard AI – Outfit Recommendation *(Aug 2025 – Oct 2025)*
-> AI fashion recommender using CNN and Computer Vision for personalized outfit suggestions.
-- 🧠 **CNN (ResNet50)** to classify & analyse clothing from uploaded images
-- 💻 Responsive **React.js** frontend with body type, occasion & colour filters
-- 🔗 **Flask REST APIs** + SQLAlchemy for seamless backend integration
-
-`HTML` `CSS` `JavaScript` `React.js` `Python` `Flask` `ResNet50` `OpenCV`
-
----
-
 ## 🏆 Achievements
 
 | 🏅 | Achievement |
 |----|------------|
-| 🥇 | **Finalist — Hacksagon, IIITM Gwalior 2026 |
+| 🥇 | **Hacksagon Hackathon Finalist** — IIITM Gwalior 2026 |
 | 💻 | **250+ DSA Problems** solved on LeetCode |
 | ⭐ | **3-Star Coder** on HackerRank (Problem Solving & C) |
 
@@ -117,6 +96,20 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchanaAgrahari&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchanaAgrahari&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArchanaAgrahari&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ArchanaAgrahari?style=for-the-badge&color=1f6feb&label=FOLLOWERS&logo=github"/>
 </div>
 
 ---
