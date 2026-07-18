@@ -19,7 +19,8 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;Full+Stack+Developer+%7C+AI%2FML+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;ML+Engineer+%7C+Frontend+Developer;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+Full+Stack)
+
 </div>
 
 ---
