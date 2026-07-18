@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Archana%20Agrahari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Computer%20Vision%20Enthusiast&descSize=17&descAlignY=58&descColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Archana%20Agrahari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=58&descColor=fff" width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;ML+Engineer+%7C+Frontend+Developer;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+Full+Stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student+%40+PSIT+Kanpur;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+Full+Stack)
 
 </div>
 
@@ -27,10 +27,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 B.Tech CSE @ **PSIT Kanpur** — CGPA: 8.74
+- 🎓 B.Tech CSE @ **PSIT Kanpur** — Percentage: **77.9%** (2023–2027)
 - 🤖 Building **AI-powered systems** — Computer Vision, Deep Learning, Multi-Agent AI
 - 🏆 **Hacksagon Finalist** @ IIITM Gwalior 2026
-- 💻 **250+ DSA problems** on LeetCode · ⭐ **3-Star Coder** on HackerRank
+- 💻 **270+ DSA problems** on LeetCode · ⭐ **3-Star Coder** on HackerRank
+- 🏢 **HP Power Lab 2.0** — Certificate of Participation (2025)
 - 📍 Kanpur, Uttar Pradesh, India
 
 ---
@@ -80,9 +81,10 @@
 
 | 🏅 | Achievement |
 |----|------------|
-| 🥇 | **Hacksagon Hackathon Finalist** — IIITM Gwalior 2026 |
+| 🥇 | **Hacksagon Hackathon Finalist** — Ideation Round, IIITM Gwalior 2026 |
 | 💻 | **250+ DSA Problems** solved on LeetCode |
 | ⭐ | **3-Star Coder** on HackerRank (Problem Solving & C) |
+| 🏢 | **HP Power Lab 2.0** — Certificate of Participation, 2025 |
 
 ---
 
